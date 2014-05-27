@@ -10,6 +10,7 @@ for example
 		scratch_out_view.setPathPaintWidth(35);
 		scratch_out_view.setAutoScratchOut(true);
 		scratch_out_view.resetView();
+		scratch_out_view.setAutoScratchOutPercent(50);
 
 		// if need scratch again
 		// scratch_out_view.resetView();
