@@ -1,4 +1,4 @@
-package cn.seacat.scratchoutview.example;
+package com.github.scratchoutview.example;
 
 import android.app.Activity;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package cn.seacat.scratchoutview;
+package com.github.scratchoutview;
 
 import java.util.ArrayList;
 
