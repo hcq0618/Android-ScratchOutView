@@ -6,6 +6,7 @@ Android-ScratchOutView
 
 for example
 
+```java
 	ScratchOutView scratch_out_view = (ScratchOutView) findViewById(R.id.scratch_out_view);
 		scratch_out_view.setPathPaintWidth(35);
 		scratch_out_view.setAutoScratchOut(true);
@@ -16,6 +17,7 @@ for example
 		// scratch_out_view.resetView();
 		// else if no longer scratch 
 		// scratch_out_view.destroyView();
+```
 
 ## License
 
